@@ -28,9 +28,18 @@
 
 * [JVM anatomy quarks](https://shipilev.net/jvm/anatomy-quarks/)
 
+* [HotSpot JVM Performance Tuning Guidelines](https://ionutbalosin.com/2020/01/hotspot-jvm-performance-tuning-guidelines/)
+
+* [Long JVM pauses without GC](https://loonytek.com/2020/01/20/long-jvm-pauses-without-gc/)
+
 ## Books
 
 * [Optimizing Java](https://www.oreilly.com/library/view/optimizing-java/9781492039259/)
+
+## Twitter
+
+* [JVM Performance Channel](https://twitter.com/JVMPerformance)
+
 
 ## Who's who
 
@@ -38,5 +47,5 @@
 * Andrei Pangin: author of async-profiler
 * Gil Tene: CTO of Azul
 * Heinz Kabutz: creator of Java Specialist newsletter
-* Jean-Philippe BEMPEL: former Azul
+* Jean-Philippe BEMPEL: JVM expert
 
