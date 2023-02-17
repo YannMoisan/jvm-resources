@@ -16,11 +16,13 @@
 
 * [JOTB19 - A race of two compilers: GraalVM JIT versus HotSpot JIT C2. by Ionut Balosin](https://www.youtube.com/watch?v=lunJmMBkqLo)
 
-* [Benchmarking for Good with Aleksey Shipilev](https://www.youtube.com/watch?v=SKPdqgD1I2U)
-
 * [Memory footprint of a Java process by Andrei Pangin](https://www.youtube.com/watch?v=c755fFv1Rnk)
 
 * [Andrei Pangin - Everything you wanted to know about Stack Traces and Heap Dumps](https://www.youtube.com/watch?v=FTsAXJdrJbI)
+
+* [Andrei Pangin - A Simple Approach to the Advanced JVM Profiling](https://www.youtube.com/watch?v=TDpbt4thECc)
+
+* [Remèdes aux oomkill, warm-ups, et lenteurs pour des conteneurs JVM (B. Dutheil et J.P. Bempel](https://www.youtube.com/watch?v=Cepqgkwll_0)
 
 ## Articles
 
