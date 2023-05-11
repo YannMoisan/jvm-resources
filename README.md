@@ -30,9 +30,21 @@
 
 * [JVM anatomy quarks](https://shipilev.net/jvm/anatomy-quarks/)
 
+* [Java Objects Inside Out](https://shipilev.net/jvm/objects-inside-out/)
+
 * [HotSpot JVM Performance Tuning Guidelines](https://ionutbalosin.com/2020/01/hotspot-jvm-performance-tuning-guidelines/)
 
 * [Long JVM pauses without GC](https://loonytek.com/2020/01/20/long-jvm-pauses-without-gc/)
+
+* [Array based immutable collections](https://rklaehn.github.io/2015/12/18/array-based-immutable-collections/)
+
+* [Java Versions and Features](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features)
+
+* [https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/](https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/)
+
+* [Async-profiler - manual by use cases](https://krzysztofslusarski.github.io/2022/12/12/async-manual.html)
+
+* [JVM Field Guide: Memory](https://serce.me/posts/01-02-2023-jvm-field-guide-memory)
 
 ## Books
 
@@ -49,5 +61,6 @@
 * Andrei Pangin: author of async-profiler
 * Gil Tene: CTO of Azul
 * Heinz Kabutz: creator of Java Specialist newsletter
-* Jean-Philippe BEMPEL: JVM expert
-
+* [Jean-Philippe BEMPEL](https://jpbempel.github.io/)
+* [Daniel Lemire](https://lemire.me/blog/)
+* [Richard Startin](https://richardstartin.github.io/)
