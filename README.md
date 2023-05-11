@@ -1,3 +1,5 @@
+It is now available and updated here: https://www.yannmoisan.com/bookmarks/jvm-performance.html
+
 # Curated list of great JVM resources
 
 ## Talks
